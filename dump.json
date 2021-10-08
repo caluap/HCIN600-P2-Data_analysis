@@ -1903,6 +1903,91 @@
                 "test_duration": 191.53800201416016
             }
         },
+        "3hgW73UiDzLMskXap3R5t8PoImK2": {
+            "answers": [],
+            "general_data": {
+                "about_the_participant": {
+                    "age_group": null,
+                    "education": null,
+                    "field_of_study": null,
+                    "gender": null,
+                    "is_it_an_important_issue": null,
+                    "occupation": null,
+                    "suggested_strategies": null,
+                    "what_is_it_main_cause": null,
+                    "will_it_affect_future_generations": null
+                },
+                "answers_count": 0,
+                "data_indexes_0": [
+                    5,
+                    3,
+                    1,
+                    3,
+                    8,
+                    5,
+                    1,
+                    8,
+                    0,
+                    9,
+                    2,
+                    7,
+                    12,
+                    0,
+                    5,
+                    0,
+                    2,
+                    3,
+                    10,
+                    6,
+                    3,
+                    5,
+                    3,
+                    4,
+                    0,
+                    3,
+                    0,
+                    7,
+                    11,
+                    2
+                ],
+                "data_indexes_1": [
+                    6,
+                    11,
+                    9,
+                    9,
+                    9,
+                    7,
+                    3,
+                    10,
+                    13,
+                    14,
+                    10,
+                    9,
+                    14,
+                    5,
+                    10,
+                    1,
+                    3,
+                    12,
+                    14,
+                    13,
+                    13,
+                    8,
+                    4,
+                    8,
+                    10,
+                    5,
+                    8,
+                    11,
+                    14,
+                    12
+                ],
+                "effectively_finished": false,
+                "end_time": null,
+                "open_ended_answer": "",
+                "start_time": "2021-10-08 13:35:33.621000+00:00"
+            }
+        },
         "3xxGsLOddjXaexvaw5wQ9pS96yu2": {
             "answers": [
                 {
@@ -6813,6 +6898,787 @@
                 "start_time": "2021-10-08 08:40:18.244000+00:00"
             }
         },
+        "Cw2UU7ComDV0tnOeoDj2ay2X7gx2": {
+            "answers": [
+                {
+                    "current_pair_of_indexes": [
+                        3,
+                        6
+                    ],
+                    "duration": 7629,
+                    "end_time": "2021-10-08 15:59:58.893000+00:00",
+                    "option0": {
+                        "description": "People should generally avoid leaving appliances on when not in use to save on power.",
+                        "name": "Turn off devices when not in use"
+                    },
+                    "option1": {
+                        "description": "Researchers and companies should invest in finding ways of removing emissions and pollution from manufacturing and industrial processes.",
+                        "name": "Reducing emissions"
+                    },
+                    "round": 0,
+                    "selected_option": {
+                        "description": "Researchers and companies should invest in finding ways of removing emissions and pollution from manufacturing and industrial processes.",
+                        "name": "Reducing emissions"
+                    },
+                    "selected_option_index": 1,
+                    "start_time": "2021-10-08 15:59:51.264000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        3,
+                        14
+                    ],
+                    "duration": 3753,
+                    "end_time": "2021-10-08 16:00:02.646000+00:00",
+                    "option0": {
+                        "description": "People should generally avoid leaving appliances on when not in use to save on power.",
+                        "name": "Turn off devices when not in use"
+                    },
+                    "option1": {
+                        "description": "People should generally buy less stuff: consumers are responsible for more than 60 percent of the global greenhouse gas emissions, most of it related to the environmental effects from actually producing goods and products.",
+                        "name": "Cut on consumption"
+                    },
+                    "round": 1,
+                    "selected_option": {
+                        "description": "People should generally avoid leaving appliances on when not in use to save on power.",
+                        "name": "Turn off devices when not in use"
+                    },
+                    "selected_option_index": 0,
+                    "start_time": "2021-10-08 15:59:58.893000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        5,
+                        13
+                    ],
+                    "duration": 3784,
+                    "end_time": "2021-10-08 16:00:06.430000+00:00",
+                    "option0": {
+                        "description": "Governments should incentivize building or upgrading existing buildings to be energy-efficient, create distributed and \u201csmart\u201d power grids, and ensuring affordable access to electricity",
+                        "name": "Smart infrastructure"
+                    },
+                    "option1": {
+                        "description": "People should generally vote for politicians who establish fighting climate change as their number one priority.",
+                        "name": "Vote for climate-change oriented politicians"
+                    },
+                    "round": 2,
+                    "selected_option": {
+                        "description": "People should generally vote for politicians who establish fighting climate change as their number one priority.",
+                        "name": "Vote for climate-change oriented politicians"
+                    },
+                    "selected_option_index": 1,
+                    "start_time": "2021-10-08 16:00:02.646000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        1,
+                        11
+                    ],
+                    "duration": 4919,
+                    "end_time": "2021-10-08 16:00:11.349000+00:00",
+                    "option0": {
+                        "description": "Researchers and companies should research better management of power across devices, making sure they are efficient.",
+                        "name": "Power aware computing"
+                    },
+                    "option1": {
+                        "description": "Governments should create decentralized systems, which can be more climate-resilient \u2014 in the event of a disaster, a community with its own decentralized energy supply isn\u2019t affected by power outages in other areas.",
+                        "name": "Decentralized energy production and distribution systems"
+                    },
+                    "round": 3,
+                    "selected_option": {
+                        "description": "Governments should create decentralized systems, which can be more climate-resilient \u2014 in the event of a disaster, a community with its own decentralized energy supply isn\u2019t affected by power outages in other areas.",
+                        "name": "Decentralized energy production and distribution systems"
+                    },
+                    "selected_option_index": 1,
+                    "start_time": "2021-10-08 16:00:06.430000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        4,
+                        8
+                    ],
+                    "duration": 2737,
+                    "end_time": "2021-10-08 16:00:14.086000+00:00",
+                    "option0": {
+                        "description": "Governments should invest in changing energy production from carbon-based sources (coal/gas/oil/etc) to renewables (wind/hydro/solar/etc).",
+                        "name": "Switch to renewable energy"
+                    },
+                    "option1": {
+                        "description": "Governments should implement measures like increasing allowed density, incentivizing walking, cycling or use of public transportation, widening sidewalks, removing minimum-parking rules for new developments, etc.",
+                        "name": "Reshape our cities to be less car-dependent"
+                    },
+                    "round": 4,
+                    "selected_option": {
+                        "description": "Governments should invest in changing energy production from carbon-based sources (coal/gas/oil/etc) to renewables (wind/hydro/solar/etc).",
+                        "name": "Switch to renewable energy"
+                    },
+                    "selected_option_index": 0,
+                    "start_time": "2021-10-08 16:00:11.349000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        3,
+                        11
+                    ],
+                    "duration": 6351,
+                    "end_time": "2021-10-08 16:00:20.437000+00:00",
+                    "option0": {
+                        "description": "People should generally avoid leaving appliances on when not in use to save on power.",
+                        "name": "Turn off devices when not in use"
+                    },
+                    "option1": {
+                        "description": "Governments should create decentralized systems, which can be more climate-resilient \u2014 in the event of a disaster, a community with its own decentralized energy supply isn\u2019t affected by power outages in other areas.",
+                        "name": "Decentralized energy production and distribution systems"
+                    },
+                    "round": 5,
+                    "selected_option": {
+                        "description": "People should generally avoid leaving appliances on when not in use to save on power.",
+                        "name": "Turn off devices when not in use"
+                    },
+                    "selected_option_index": 0,
+                    "start_time": "2021-10-08 16:00:14.086000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        8,
+                        12
+                    ],
+                    "duration": 3377,
+                    "end_time": "2021-10-08 16:00:23.814000+00:00",
+                    "option0": {
+                        "description": "Governments should implement measures like increasing allowed density, incentivizing walking, cycling or use of public transportation, widening sidewalks, removing minimum-parking rules for new developments, etc.",
+                        "name": "Reshape our cities to be less car-dependent"
+                    },
+                    "option1": {
+                        "description": "People should switch to vegetarian diets, since meat and dairy account for ~15% of global greenhouse gas emissions.",
+                        "name": "Disincentivize meat-based diets"
+                    },
+                    "round": 6,
+                    "selected_option": {
+                        "description": "Governments should implement measures like increasing allowed density, incentivizing walking, cycling or use of public transportation, widening sidewalks, removing minimum-parking rules for new developments, etc.",
+                        "name": "Reshape our cities to be less car-dependent"
+                    },
+                    "selected_option_index": 0,
+                    "start_time": "2021-10-08 16:00:20.437000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        7,
+                        13
+                    ],
+                    "duration": 5311,
+                    "end_time": "2021-10-08 16:00:29.125000+00:00",
+                    "option0": {
+                        "description": "Researchers and companies should develop products that are easier to repair, upgrade, or even be disassembled to have their components reused in other products/applications.",
+                        "name": "Design computers/electronics for disassembly/deconstruction"
+                    },
+                    "option1": {
+                        "description": "People should generally vote for politicians who establish fighting climate change as their number one priority.",
+                        "name": "Vote for climate-change oriented politicians"
+                    },
+                    "round": 7,
+                    "selected_option": {
+                        "description": "People should generally vote for politicians who establish fighting climate change as their number one priority.",
+                        "name": "Vote for climate-change oriented politicians"
+                    },
+                    "selected_option_index": 1,
+                    "start_time": "2021-10-08 16:00:23.814000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        2,
+                        5
+                    ],
+                    "duration": 3376,
+                    "end_time": "2021-10-08 16:00:32.501000+00:00",
+                    "option0": {
+                        "description": "Governments should incentivize switching internal combustion engine cars with electric cars.",
+                        "name": "Electric vehicles"
+                    },
+                    "option1": {
+                        "description": "Governments should incentivize building or upgrading existing buildings to be energy-efficient, create distributed and \u201csmart\u201d power grids, and ensuring affordable access to electricity",
+                        "name": "Smart infrastructure"
+                    },
+                    "round": 8,
+                    "selected_option": {
+                        "description": "Governments should incentivize switching internal combustion engine cars with electric cars.",
+                        "name": "Electric vehicles"
+                    },
+                    "selected_option_index": 0,
+                    "start_time": "2021-10-08 16:00:29.125000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        6,
+                        12
+                    ],
+                    "duration": 3377,
+                    "end_time": "2021-10-08 16:00:35.878000+00:00",
+                    "option0": {
+                        "description": "Researchers and companies should invest in finding ways of removing emissions and pollution from manufacturing and industrial processes.",
+                        "name": "Reducing emissions"
+                    },
+                    "option1": {
+                        "description": "People should switch to vegetarian diets, since meat and dairy account for ~15% of global greenhouse gas emissions.",
+                        "name": "Disincentivize meat-based diets"
+                    },
+                    "round": 9,
+                    "selected_option": {
+                        "description": "Researchers and companies should invest in finding ways of removing emissions and pollution from manufacturing and industrial processes.",
+                        "name": "Reducing emissions"
+                    },
+                    "selected_option_index": 0,
+                    "start_time": "2021-10-08 16:00:32.501000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        2,
+                        9
+                    ],
+                    "duration": 3392,
+                    "end_time": "2021-10-08 16:00:39.270000+00:00",
+                    "option0": {
+                        "description": "Governments should incentivize switching internal combustion engine cars with electric cars.",
+                        "name": "Electric vehicles"
+                    },
+                    "option1": {
+                        "description": "Governments should institute a carbon tax that will punish products that are reliant on high-CO2 emissions, incentivizing greener alternatives.",
+                        "name": "Implement a carbon tax"
+                    },
+                    "round": 10,
+                    "selected_option": {
+                        "description": "Governments should incentivize switching internal combustion engine cars with electric cars.",
+                        "name": "Electric vehicles"
+                    },
+                    "selected_option_index": 0,
+                    "start_time": "2021-10-08 16:00:35.878000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        7,
+                        8
+                    ],
+                    "duration": 3185,
+                    "end_time": "2021-10-08 16:00:42.455000+00:00",
+                    "option0": {
+                        "description": "Researchers and companies should develop products that are easier to repair, upgrade, or even be disassembled to have their components reused in other products/applications.",
+                        "name": "Design computers/electronics for disassembly/deconstruction"
+                    },
+                    "option1": {
+                        "description": "Governments should implement measures like increasing allowed density, incentivizing walking, cycling or use of public transportation, widening sidewalks, removing minimum-parking rules for new developments, etc.",
+                        "name": "Reshape our cities to be less car-dependent"
+                    },
+                    "round": 11,
+                    "selected_option": {
+                        "description": "Governments should implement measures like increasing allowed density, incentivizing walking, cycling or use of public transportation, widening sidewalks, removing minimum-parking rules for new developments, etc.",
+                        "name": "Reshape our cities to be less car-dependent"
+                    },
+                    "selected_option_index": 1,
+                    "start_time": "2021-10-08 16:00:39.270000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        0,
+                        14
+                    ],
+                    "duration": 3728,
+                    "end_time": "2021-10-08 16:00:46.183000+00:00",
+                    "option0": {
+                        "description": "Researchers and companies should create simulations, games, and educational software to increase public awareness of the issues involved.",
+                        "name": "Educational tools about the effects and causes of climate change"
+                    },
+                    "option1": {
+                        "description": "People should generally buy less stuff: consumers are responsible for more than 60 percent of the global greenhouse gas emissions, most of it related to the environmental effects from actually producing goods and products.",
+                        "name": "Cut on consumption"
+                    },
+                    "round": 12,
+                    "selected_option": {
+                        "description": "Researchers and companies should create simulations, games, and educational software to increase public awareness of the issues involved.",
+                        "name": "Educational tools about the effects and causes of climate change"
+                    },
+                    "selected_option_index": 0,
+                    "start_time": "2021-10-08 16:00:42.455000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        2,
+                        10
+                    ],
+                    "duration": 7351,
+                    "end_time": "2021-10-08 16:00:53.534000+00:00",
+                    "option0": {
+                        "description": "Governments should incentivize switching internal combustion engine cars with electric cars.",
+                        "name": "Electric vehicles"
+                    },
+                    "option1": {
+                        "description": "Researchers and companies should switch to remote work, decreasing emissions from transportation and office upkeep (especially, lighting and heating).",
+                        "name": "Remote work"
+                    },
+                    "round": 13,
+                    "selected_option": {
+                        "description": "Researchers and companies should switch to remote work, decreasing emissions from transportation and office upkeep (especially, lighting and heating).",
+                        "name": "Remote work"
+                    },
+                    "selected_option_index": 1,
+                    "start_time": "2021-10-08 16:00:46.183000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        2,
+                        4
+                    ],
+                    "duration": 2512,
+                    "end_time": "2021-10-08 16:00:56.046000+00:00",
+                    "option0": {
+                        "description": "Governments should incentivize switching internal combustion engine cars with electric cars.",
+                        "name": "Electric vehicles"
+                    },
+                    "option1": {
+                        "description": "Governments should invest in changing energy production from carbon-based sources (coal/gas/oil/etc) to renewables (wind/hydro/solar/etc).",
+                        "name": "Switch to renewable energy"
+                    },
+                    "round": 14,
+                    "selected_option": {
+                        "description": "Governments should invest in changing energy production from carbon-based sources (coal/gas/oil/etc) to renewables (wind/hydro/solar/etc).",
+                        "name": "Switch to renewable energy"
+                    },
+                    "selected_option_index": 1,
+                    "start_time": "2021-10-08 16:00:53.534000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        3,
+                        8
+                    ],
+                    "duration": 2552,
+                    "end_time": "2021-10-08 16:00:58.598000+00:00",
+                    "option0": {
+                        "description": "People should generally avoid leaving appliances on when not in use to save on power.",
+                        "name": "Turn off devices when not in use"
+                    },
+                    "option1": {
+                        "description": "Governments should implement measures like increasing allowed density, incentivizing walking, cycling or use of public transportation, widening sidewalks, removing minimum-parking rules for new developments, etc.",
+                        "name": "Reshape our cities to be less car-dependent"
+                    },
+                    "round": 15,
+                    "selected_option": {
+                        "description": "Governments should implement measures like increasing allowed density, incentivizing walking, cycling or use of public transportation, widening sidewalks, removing minimum-parking rules for new developments, etc.",
+                        "name": "Reshape our cities to be less car-dependent"
+                    },
+                    "selected_option_index": 1,
+                    "start_time": "2021-10-08 16:00:56.046000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        5,
+                        9
+                    ],
+                    "duration": 4472,
+                    "end_time": "2021-10-08 16:01:03.070000+00:00",
+                    "option0": {
+                        "description": "Governments should incentivize building or upgrading existing buildings to be energy-efficient, create distributed and \u201csmart\u201d power grids, and ensuring affordable access to electricity",
+                        "name": "Smart infrastructure"
+                    },
+                    "option1": {
+                        "description": "Governments should institute a carbon tax that will punish products that are reliant on high-CO2 emissions, incentivizing greener alternatives.",
+                        "name": "Implement a carbon tax"
+                    },
+                    "round": 16,
+                    "selected_option": {
+                        "description": "Governments should incentivize building or upgrading existing buildings to be energy-efficient, create distributed and \u201csmart\u201d power grids, and ensuring affordable access to electricity",
+                        "name": "Smart infrastructure"
+                    },
+                    "selected_option_index": 0,
+                    "start_time": "2021-10-08 16:00:58.598000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        1,
+                        7
+                    ],
+                    "duration": 4888,
+                    "end_time": "2021-10-08 16:01:07.958000+00:00",
+                    "option0": {
+                        "description": "Researchers and companies should research better management of power across devices, making sure they are efficient.",
+                        "name": "Power aware computing"
+                    },
+                    "option1": {
+                        "description": "Researchers and companies should develop products that are easier to repair, upgrade, or even be disassembled to have their components reused in other products/applications.",
+                        "name": "Design computers/electronics for disassembly/deconstruction"
+                    },
+                    "round": 17,
+                    "selected_option": {
+                        "description": "Researchers and companies should develop products that are easier to repair, upgrade, or even be disassembled to have their components reused in other products/applications.",
+                        "name": "Design computers/electronics for disassembly/deconstruction"
+                    },
+                    "selected_option_index": 1,
+                    "start_time": "2021-10-08 16:01:03.070000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        2,
+                        7
+                    ],
+                    "duration": 3288,
+                    "end_time": "2021-10-08 16:01:11.246000+00:00",
+                    "option0": {
+                        "description": "Governments should incentivize switching internal combustion engine cars with electric cars.",
+                        "name": "Electric vehicles"
+                    },
+                    "option1": {
+                        "description": "Researchers and companies should develop products that are easier to repair, upgrade, or even be disassembled to have their components reused in other products/applications.",
+                        "name": "Design computers/electronics for disassembly/deconstruction"
+                    },
+                    "round": 18,
+                    "selected_option": {
+                        "description": "Governments should incentivize switching internal combustion engine cars with electric cars.",
+                        "name": "Electric vehicles"
+                    },
+                    "selected_option_index": 0,
+                    "start_time": "2021-10-08 16:01:07.958000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        9,
+                        10
+                    ],
+                    "duration": 2376,
+                    "end_time": "2021-10-08 16:01:13.622000+00:00",
+                    "option0": {
+                        "description": "Governments should institute a carbon tax that will punish products that are reliant on high-CO2 emissions, incentivizing greener alternatives.",
+                        "name": "Implement a carbon tax"
+                    },
+                    "option1": {
+                        "description": "Researchers and companies should switch to remote work, decreasing emissions from transportation and office upkeep (especially, lighting and heating).",
+                        "name": "Remote work"
+                    },
+                    "round": 19,
+                    "selected_option": {
+                        "description": "Researchers and companies should switch to remote work, decreasing emissions from transportation and office upkeep (especially, lighting and heating).",
+                        "name": "Remote work"
+                    },
+                    "selected_option_index": 1,
+                    "start_time": "2021-10-08 16:01:11.246000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        4,
+                        6
+                    ],
+                    "duration": 3687,
+                    "end_time": "2021-10-08 16:01:17.309000+00:00",
+                    "option0": {
+                        "description": "Governments should invest in changing energy production from carbon-based sources (coal/gas/oil/etc) to renewables (wind/hydro/solar/etc).",
+                        "name": "Switch to renewable energy"
+                    },
+                    "option1": {
+                        "description": "Researchers and companies should invest in finding ways of removing emissions and pollution from manufacturing and industrial processes.",
+                        "name": "Reducing emissions"
+                    },
+                    "round": 20,
+                    "selected_option": {
+                        "description": "Governments should invest in changing energy production from carbon-based sources (coal/gas/oil/etc) to renewables (wind/hydro/solar/etc).",
+                        "name": "Switch to renewable energy"
+                    },
+                    "selected_option_index": 0,
+                    "start_time": "2021-10-08 16:01:13.622000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        2,
+                        11
+                    ],
+                    "duration": 4586,
+                    "end_time": "2021-10-08 16:01:21.895000+00:00",
+                    "option0": {
+                        "description": "Governments should incentivize switching internal combustion engine cars with electric cars.",
+                        "name": "Electric vehicles"
+                    },
+                    "option1": {
+                        "description": "Governments should create decentralized systems, which can be more climate-resilient \u2014 in the event of a disaster, a community with its own decentralized energy supply isn\u2019t affected by power outages in other areas.",
+                        "name": "Decentralized energy production and distribution systems"
+                    },
+                    "round": 21,
+                    "selected_option": {
+                        "description": "Governments should incentivize switching internal combustion engine cars with electric cars.",
+                        "name": "Electric vehicles"
+                    },
+                    "selected_option_index": 0,
+                    "start_time": "2021-10-08 16:01:17.309000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        8,
+                        9
+                    ],
+                    "duration": 3231,
+                    "end_time": "2021-10-08 16:01:25.126000+00:00",
+                    "option0": {
+                        "description": "Governments should implement measures like increasing allowed density, incentivizing walking, cycling or use of public transportation, widening sidewalks, removing minimum-parking rules for new developments, etc.",
+                        "name": "Reshape our cities to be less car-dependent"
+                    },
+                    "option1": {
+                        "description": "Governments should institute a carbon tax that will punish products that are reliant on high-CO2 emissions, incentivizing greener alternatives.",
+                        "name": "Implement a carbon tax"
+                    },
+                    "round": 22,
+                    "selected_option": {
+                        "description": "Governments should implement measures like increasing allowed density, incentivizing walking, cycling or use of public transportation, widening sidewalks, removing minimum-parking rules for new developments, etc.",
+                        "name": "Reshape our cities to be less car-dependent"
+                    },
+                    "selected_option_index": 0,
+                    "start_time": "2021-10-08 16:01:21.895000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        6,
+                        14
+                    ],
+                    "duration": 4192,
+                    "end_time": "2021-10-08 16:01:29.318000+00:00",
+                    "option0": {
+                        "description": "Researchers and companies should invest in finding ways of removing emissions and pollution from manufacturing and industrial processes.",
+                        "name": "Reducing emissions"
+                    },
+                    "option1": {
+                        "description": "People should generally buy less stuff: consumers are responsible for more than 60 percent of the global greenhouse gas emissions, most of it related to the environmental effects from actually producing goods and products.",
+                        "name": "Cut on consumption"
+                    },
+                    "round": 23,
+                    "selected_option": {
+                        "description": "Researchers and companies should invest in finding ways of removing emissions and pollution from manufacturing and industrial processes.",
+                        "name": "Reducing emissions"
+                    },
+                    "selected_option_index": 0,
+                    "start_time": "2021-10-08 16:01:25.126000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        2,
+                        14
+                    ],
+                    "duration": 4711,
+                    "end_time": "2021-10-08 16:01:34.029000+00:00",
+                    "option0": {
+                        "description": "Governments should incentivize switching internal combustion engine cars with electric cars.",
+                        "name": "Electric vehicles"
+                    },
+                    "option1": {
+                        "description": "People should generally buy less stuff: consumers are responsible for more than 60 percent of the global greenhouse gas emissions, most of it related to the environmental effects from actually producing goods and products.",
+                        "name": "Cut on consumption"
+                    },
+                    "round": 24,
+                    "selected_option": {
+                        "description": "Governments should incentivize switching internal combustion engine cars with electric cars.",
+                        "name": "Electric vehicles"
+                    },
+                    "selected_option_index": 0,
+                    "start_time": "2021-10-08 16:01:29.318000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        3,
+                        9
+                    ],
+                    "duration": 6073,
+                    "end_time": "2021-10-08 16:01:40.102000+00:00",
+                    "option0": {
+                        "description": "People should generally avoid leaving appliances on when not in use to save on power.",
+                        "name": "Turn off devices when not in use"
+                    },
+                    "option1": {
+                        "description": "Governments should institute a carbon tax that will punish products that are reliant on high-CO2 emissions, incentivizing greener alternatives.",
+                        "name": "Implement a carbon tax"
+                    },
+                    "round": 25,
+                    "selected_option": {
+                        "description": "Governments should institute a carbon tax that will punish products that are reliant on high-CO2 emissions, incentivizing greener alternatives.",
+                        "name": "Implement a carbon tax"
+                    },
+                    "selected_option_index": 1,
+                    "start_time": "2021-10-08 16:01:34.029000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        9,
+                        12
+                    ],
+                    "duration": 2736,
+                    "end_time": "2021-10-08 16:01:42.838000+00:00",
+                    "option0": {
+                        "description": "Governments should institute a carbon tax that will punish products that are reliant on high-CO2 emissions, incentivizing greener alternatives.",
+                        "name": "Implement a carbon tax"
+                    },
+                    "option1": {
+                        "description": "People should switch to vegetarian diets, since meat and dairy account for ~15% of global greenhouse gas emissions.",
+                        "name": "Disincentivize meat-based diets"
+                    },
+                    "round": 26,
+                    "selected_option": {
+                        "description": "Governments should institute a carbon tax that will punish products that are reliant on high-CO2 emissions, incentivizing greener alternatives.",
+                        "name": "Implement a carbon tax"
+                    },
+                    "selected_option_index": 0,
+                    "start_time": "2021-10-08 16:01:40.102000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        2,
+                        3
+                    ],
+                    "duration": 3648,
+                    "end_time": "2021-10-08 16:01:46.486000+00:00",
+                    "option0": {
+                        "description": "Governments should incentivize switching internal combustion engine cars with electric cars.",
+                        "name": "Electric vehicles"
+                    },
+                    "option1": {
+                        "description": "People should generally avoid leaving appliances on when not in use to save on power.",
+                        "name": "Turn off devices when not in use"
+                    },
+                    "round": 27,
+                    "selected_option": {
+                        "description": "Governments should incentivize switching internal combustion engine cars with electric cars.",
+                        "name": "Electric vehicles"
+                    },
+                    "selected_option_index": 0,
+                    "start_time": "2021-10-08 16:01:42.838000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        0,
+                        1
+                    ],
+                    "duration": 5264,
+                    "end_time": "2021-10-08 16:01:51.750000+00:00",
+                    "option0": {
+                        "description": "Researchers and companies should create simulations, games, and educational software to increase public awareness of the issues involved.",
+                        "name": "Educational tools about the effects and causes of climate change"
+                    },
+                    "option1": {
+                        "description": "Researchers and companies should research better management of power across devices, making sure they are efficient.",
+                        "name": "Power aware computing"
+                    },
+                    "round": 28,
+                    "selected_option": {
+                        "description": "Researchers and companies should create simulations, games, and educational software to increase public awareness of the issues involved.",
+                        "name": "Educational tools about the effects and causes of climate change"
+                    },
+                    "selected_option_index": 0,
+                    "start_time": "2021-10-08 16:01:46.486000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        11,
+                        14
+                    ],
+                    "duration": 5352,
+                    "end_time": "2021-10-08 16:01:57.102000+00:00",
+                    "option0": {
+                        "description": "Governments should create decentralized systems, which can be more climate-resilient \u2014 in the event of a disaster, a community with its own decentralized energy supply isn\u2019t affected by power outages in other areas.",
+                        "name": "Decentralized energy production and distribution systems"
+                    },
+                    "option1": {
+                        "description": "People should generally buy less stuff: consumers are responsible for more than 60 percent of the global greenhouse gas emissions, most of it related to the environmental effects from actually producing goods and products.",
+                        "name": "Cut on consumption"
+                    },
+                    "round": 29,
+                    "selected_option": {
+                        "description": "Governments should create decentralized systems, which can be more climate-resilient \u2014 in the event of a disaster, a community with its own decentralized energy supply isn\u2019t affected by power outages in other areas.",
+                        "name": "Decentralized energy production and distribution systems"
+                    },
+                    "selected_option_index": 0,
+                    "start_time": "2021-10-08 16:01:51.750000+00:00"
+                }
+            ],
+            "general_data": {
+                "about_the_participant": {
+                    "age_group": "35 to 44 years",
+                    "education": "Master\u2019s or equivalent level",
+                    "field_of_study": "Chemistry",
+                    "gender": "Masculine",
+                    "is_it_an_important_issue": "4",
+                    "occupation": "Analytics Manager",
+                    "suggested_strategies": "Renewable energy and electrification of the world economy",
+                    "what_is_it_main_cause": "2",
+                    "will_it_affect_future_generations": "4"
+                },
+                "answers_count": 30,
+                "data_indexes_0": [
+                    3,
+                    3,
+                    5,
+                    1,
+                    4,
+                    3,
+                    8,
+                    7,
+                    2,
+                    6,
+                    2,
+                    7,
+                    0,
+                    2,
+                    2,
+                    3,
+                    5,
+                    1,
+                    2,
+                    9,
+                    4,
+                    2,
+                    8,
+                    6,
+                    2,
+                    3,
+                    9,
+                    2,
+                    0,
+                    11
+                ],
+                "data_indexes_1": [
+                    6,
+                    14,
+                    13,
+                    11,
+                    8,
+                    11,
+                    12,
+                    13,
+                    5,
+                    12,
+                    9,
+                    8,
+                    14,
+                    10,
+                    4,
+                    8,
+                    9,
+                    7,
+                    7,
+                    10,
+                    6,
+                    11,
+                    9,
+                    14,
+                    14,
+                    9,
+                    12,
+                    3,
+                    1,
+                    14
+                ],
+                "effectively_finished": true,
+                "end_time": "2021-10-08 16:03:49.871000+00:00",
+                "open_ended_answer": "You have to balance impact and likelihood of success with all of these examples. Something that would reduce a lot of carbon emissions but would be impossible to implement is less of a priority than something that would be easy to implement but would have a lower overall impact.\n",
+                "start_time": "2021-10-08 15:58:25.808000+00:00"
+            },
+            "statistics": {
+                "average_answer_duration": 4.194599914550781,
+                "percentage_of_correct_answers": 0,
+                "test_duration": 125.83799743652344
+            }
+        },
         "F0jtycZCZNcPOpwHpKiE9VXbiBj2": {
             "answers": [],
             "general_data": {
@@ -7677,6 +8543,787 @@
                 "average_answer_duration": 10.388999938964844,
                 "percentage_of_correct_answers": 0,
                 "test_duration": 311.6699981689453
+            }
+        },
+        "Fu3ZSh72LscLsVaqg0LdS0LYxK43": {
+            "answers": [
+                {
+                    "current_pair_of_indexes": [
+                        3,
+                        4
+                    ],
+                    "duration": 13691,
+                    "end_time": "2021-10-08 17:14:22.718000+00:00",
+                    "option0": {
+                        "description": "People should generally avoid leaving appliances on when not in use to save on power.",
+                        "name": "Turn off devices when not in use"
+                    },
+                    "option1": {
+                        "description": "Governments should invest in changing energy production from carbon-based sources (coal/gas/oil/etc) to renewables (wind/hydro/solar/etc).",
+                        "name": "Switch to renewable energy"
+                    },
+                    "round": 0,
+                    "selected_option": {
+                        "description": "Governments should invest in changing energy production from carbon-based sources (coal/gas/oil/etc) to renewables (wind/hydro/solar/etc).",
+                        "name": "Switch to renewable energy"
+                    },
+                    "selected_option_index": 1,
+                    "start_time": "2021-10-08 17:14:09.027000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        0,
+                        5
+                    ],
+                    "duration": 9483,
+                    "end_time": "2021-10-08 17:14:32.201000+00:00",
+                    "option0": {
+                        "description": "Researchers and companies should create simulations, games, and educational software to increase public awareness of the issues involved.",
+                        "name": "Educational tools about the effects and causes of climate change"
+                    },
+                    "option1": {
+                        "description": "Governments should incentivize building or upgrading existing buildings to be energy-efficient, create distributed and \u201csmart\u201d power grids, and ensuring affordable access to electricity",
+                        "name": "Smart infrastructure"
+                    },
+                    "round": 1,
+                    "selected_option": {
+                        "description": "Governments should incentivize building or upgrading existing buildings to be energy-efficient, create distributed and \u201csmart\u201d power grids, and ensuring affordable access to electricity",
+                        "name": "Smart infrastructure"
+                    },
+                    "selected_option_index": 1,
+                    "start_time": "2021-10-08 17:14:22.718000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        9,
+                        12
+                    ],
+                    "duration": 5591,
+                    "end_time": "2021-10-08 17:14:37.792000+00:00",
+                    "option0": {
+                        "description": "Governments should institute a carbon tax that will punish products that are reliant on high-CO2 emissions, incentivizing greener alternatives.",
+                        "name": "Implement a carbon tax"
+                    },
+                    "option1": {
+                        "description": "People should switch to vegetarian diets, since meat and dairy account for ~15% of global greenhouse gas emissions.",
+                        "name": "Disincentivize meat-based diets"
+                    },
+                    "round": 2,
+                    "selected_option": {
+                        "description": "Governments should institute a carbon tax that will punish products that are reliant on high-CO2 emissions, incentivizing greener alternatives.",
+                        "name": "Implement a carbon tax"
+                    },
+                    "selected_option_index": 0,
+                    "start_time": "2021-10-08 17:14:32.201000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        13,
+                        14
+                    ],
+                    "duration": 5063,
+                    "end_time": "2021-10-08 17:14:42.855000+00:00",
+                    "option0": {
+                        "description": "People should generally vote for politicians who establish fighting climate change as their number one priority.",
+                        "name": "Vote for climate-change oriented politicians"
+                    },
+                    "option1": {
+                        "description": "People should generally buy less stuff: consumers are responsible for more than 60 percent of the global greenhouse gas emissions, most of it related to the environmental effects from actually producing goods and products.",
+                        "name": "Cut on consumption"
+                    },
+                    "round": 3,
+                    "selected_option": {
+                        "description": "People should generally vote for politicians who establish fighting climate change as their number one priority.",
+                        "name": "Vote for climate-change oriented politicians"
+                    },
+                    "selected_option_index": 0,
+                    "start_time": "2021-10-08 17:14:37.792000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        6,
+                        12
+                    ],
+                    "duration": 7009,
+                    "end_time": "2021-10-08 17:14:49.864000+00:00",
+                    "option0": {
+                        "description": "Researchers and companies should invest in finding ways of removing emissions and pollution from manufacturing and industrial processes.",
+                        "name": "Reducing emissions"
+                    },
+                    "option1": {
+                        "description": "People should switch to vegetarian diets, since meat and dairy account for ~15% of global greenhouse gas emissions.",
+                        "name": "Disincentivize meat-based diets"
+                    },
+                    "round": 4,
+                    "selected_option": {
+                        "description": "Researchers and companies should invest in finding ways of removing emissions and pollution from manufacturing and industrial processes.",
+                        "name": "Reducing emissions"
+                    },
+                    "selected_option_index": 0,
+                    "start_time": "2021-10-08 17:14:42.855000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        3,
+                        9
+                    ],
+                    "duration": 4664,
+                    "end_time": "2021-10-08 17:14:54.528000+00:00",
+                    "option0": {
+                        "description": "People should generally avoid leaving appliances on when not in use to save on power.",
+                        "name": "Turn off devices when not in use"
+                    },
+                    "option1": {
+                        "description": "Governments should institute a carbon tax that will punish products that are reliant on high-CO2 emissions, incentivizing greener alternatives.",
+                        "name": "Implement a carbon tax"
+                    },
+                    "round": 5,
+                    "selected_option": {
+                        "description": "Governments should institute a carbon tax that will punish products that are reliant on high-CO2 emissions, incentivizing greener alternatives.",
+                        "name": "Implement a carbon tax"
+                    },
+                    "selected_option_index": 1,
+                    "start_time": "2021-10-08 17:14:49.864000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        5,
+                        14
+                    ],
+                    "duration": 10479,
+                    "end_time": "2021-10-08 17:15:05.007000+00:00",
+                    "option0": {
+                        "description": "Governments should incentivize building or upgrading existing buildings to be energy-efficient, create distributed and \u201csmart\u201d power grids, and ensuring affordable access to electricity",
+                        "name": "Smart infrastructure"
+                    },
+                    "option1": {
+                        "description": "People should generally buy less stuff: consumers are responsible for more than 60 percent of the global greenhouse gas emissions, most of it related to the environmental effects from actually producing goods and products.",
+                        "name": "Cut on consumption"
+                    },
+                    "round": 6,
+                    "selected_option": {
+                        "description": "Governments should incentivize building or upgrading existing buildings to be energy-efficient, create distributed and \u201csmart\u201d power grids, and ensuring affordable access to electricity",
+                        "name": "Smart infrastructure"
+                    },
+                    "selected_option_index": 0,
+                    "start_time": "2021-10-08 17:14:54.528000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        8,
+                        12
+                    ],
+                    "duration": 4679,
+                    "end_time": "2021-10-08 17:15:09.686000+00:00",
+                    "option0": {
+                        "description": "Governments should implement measures like increasing allowed density, incentivizing walking, cycling or use of public transportation, widening sidewalks, removing minimum-parking rules for new developments, etc.",
+                        "name": "Reshape our cities to be less car-dependent"
+                    },
+                    "option1": {
+                        "description": "People should switch to vegetarian diets, since meat and dairy account for ~15% of global greenhouse gas emissions.",
+                        "name": "Disincentivize meat-based diets"
+                    },
+                    "round": 7,
+                    "selected_option": {
+                        "description": "Governments should implement measures like increasing allowed density, incentivizing walking, cycling or use of public transportation, widening sidewalks, removing minimum-parking rules for new developments, etc.",
+                        "name": "Reshape our cities to be less car-dependent"
+                    },
+                    "selected_option_index": 0,
+                    "start_time": "2021-10-08 17:15:05.007000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        3,
+                        12
+                    ],
+                    "duration": 9297,
+                    "end_time": "2021-10-08 17:15:18.983000+00:00",
+                    "option0": {
+                        "description": "People should generally avoid leaving appliances on when not in use to save on power.",
+                        "name": "Turn off devices when not in use"
+                    },
+                    "option1": {
+                        "description": "People should switch to vegetarian diets, since meat and dairy account for ~15% of global greenhouse gas emissions.",
+                        "name": "Disincentivize meat-based diets"
+                    },
+                    "round": 8,
+                    "selected_option": {
+                        "description": "People should generally avoid leaving appliances on when not in use to save on power.",
+                        "name": "Turn off devices when not in use"
+                    },
+                    "selected_option_index": 0,
+                    "start_time": "2021-10-08 17:15:09.686000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        4,
+                        8
+                    ],
+                    "duration": 5292,
+                    "end_time": "2021-10-08 17:15:24.275000+00:00",
+                    "option0": {
+                        "description": "Governments should invest in changing energy production from carbon-based sources (coal/gas/oil/etc) to renewables (wind/hydro/solar/etc).",
+                        "name": "Switch to renewable energy"
+                    },
+                    "option1": {
+                        "description": "Governments should implement measures like increasing allowed density, incentivizing walking, cycling or use of public transportation, widening sidewalks, removing minimum-parking rules for new developments, etc.",
+                        "name": "Reshape our cities to be less car-dependent"
+                    },
+                    "round": 9,
+                    "selected_option": {
+                        "description": "Governments should invest in changing energy production from carbon-based sources (coal/gas/oil/etc) to renewables (wind/hydro/solar/etc).",
+                        "name": "Switch to renewable energy"
+                    },
+                    "selected_option_index": 0,
+                    "start_time": "2021-10-08 17:15:18.983000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        7,
+                        10
+                    ],
+                    "duration": 8720,
+                    "end_time": "2021-10-08 17:15:32.995000+00:00",
+                    "option0": {
+                        "description": "Researchers and companies should develop products that are easier to repair, upgrade, or even be disassembled to have their components reused in other products/applications.",
+                        "name": "Design computers/electronics for disassembly/deconstruction"
+                    },
+                    "option1": {
+                        "description": "Researchers and companies should switch to remote work, decreasing emissions from transportation and office upkeep (especially, lighting and heating).",
+                        "name": "Remote work"
+                    },
+                    "round": 10,
+                    "selected_option": {
+                        "description": "Researchers and companies should develop products that are easier to repair, upgrade, or even be disassembled to have their components reused in other products/applications.",
+                        "name": "Design computers/electronics for disassembly/deconstruction"
+                    },
+                    "selected_option_index": 0,
+                    "start_time": "2021-10-08 17:15:24.275000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        1,
+                        9
+                    ],
+                    "duration": 10512,
+                    "end_time": "2021-10-08 17:15:43.507000+00:00",
+                    "option0": {
+                        "description": "Researchers and companies should research better management of power across devices, making sure they are efficient.",
+                        "name": "Power aware computing"
+                    },
+                    "option1": {
+                        "description": "Governments should institute a carbon tax that will punish products that are reliant on high-CO2 emissions, incentivizing greener alternatives.",
+                        "name": "Implement a carbon tax"
+                    },
+                    "round": 11,
+                    "selected_option": {
+                        "description": "Researchers and companies should research better management of power across devices, making sure they are efficient.",
+                        "name": "Power aware computing"
+                    },
+                    "selected_option_index": 0,
+                    "start_time": "2021-10-08 17:15:32.995000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        8,
+                        13
+                    ],
+                    "duration": 9651,
+                    "end_time": "2021-10-08 17:15:53.158000+00:00",
+                    "option0": {
+                        "description": "Governments should implement measures like increasing allowed density, incentivizing walking, cycling or use of public transportation, widening sidewalks, removing minimum-parking rules for new developments, etc.",
+                        "name": "Reshape our cities to be less car-dependent"
+                    },
+                    "option1": {
+                        "description": "People should generally vote for politicians who establish fighting climate change as their number one priority.",
+                        "name": "Vote for climate-change oriented politicians"
+                    },
+                    "round": 12,
+                    "selected_option": {
+                        "description": "Governments should implement measures like increasing allowed density, incentivizing walking, cycling or use of public transportation, widening sidewalks, removing minimum-parking rules for new developments, etc.",
+                        "name": "Reshape our cities to be less car-dependent"
+                    },
+                    "selected_option_index": 0,
+                    "start_time": "2021-10-08 17:15:43.507000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        0,
+                        14
+                    ],
+                    "duration": 6580,
+                    "end_time": "2021-10-08 17:15:59.738000+00:00",
+                    "option0": {
+                        "description": "Researchers and companies should create simulations, games, and educational software to increase public awareness of the issues involved.",
+                        "name": "Educational tools about the effects and causes of climate change"
+                    },
+                    "option1": {
+                        "description": "People should generally buy less stuff: consumers are responsible for more than 60 percent of the global greenhouse gas emissions, most of it related to the environmental effects from actually producing goods and products.",
+                        "name": "Cut on consumption"
+                    },
+                    "round": 13,
+                    "selected_option": {
+                        "description": "People should generally buy less stuff: consumers are responsible for more than 60 percent of the global greenhouse gas emissions, most of it related to the environmental effects from actually producing goods and products.",
+                        "name": "Cut on consumption"
+                    },
+                    "selected_option_index": 1,
+                    "start_time": "2021-10-08 17:15:53.158000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        1,
+                        12
+                    ],
+                    "duration": 3757,
+                    "end_time": "2021-10-08 17:16:03.495000+00:00",
+                    "option0": {
+                        "description": "Researchers and companies should research better management of power across devices, making sure they are efficient.",
+                        "name": "Power aware computing"
+                    },
+                    "option1": {
+                        "description": "People should switch to vegetarian diets, since meat and dairy account for ~15% of global greenhouse gas emissions.",
+                        "name": "Disincentivize meat-based diets"
+                    },
+                    "round": 14,
+                    "selected_option": {
+                        "description": "Researchers and companies should research better management of power across devices, making sure they are efficient.",
+                        "name": "Power aware computing"
+                    },
+                    "selected_option_index": 0,
+                    "start_time": "2021-10-08 17:15:59.738000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        12,
+                        13
+                    ],
+                    "duration": 3379,
+                    "end_time": "2021-10-08 17:16:06.874000+00:00",
+                    "option0": {
+                        "description": "People should switch to vegetarian diets, since meat and dairy account for ~15% of global greenhouse gas emissions.",
+                        "name": "Disincentivize meat-based diets"
+                    },
+                    "option1": {
+                        "description": "People should generally vote for politicians who establish fighting climate change as their number one priority.",
+                        "name": "Vote for climate-change oriented politicians"
+                    },
+                    "round": 15,
+                    "selected_option": {
+                        "description": "People should generally vote for politicians who establish fighting climate change as their number one priority.",
+                        "name": "Vote for climate-change oriented politicians"
+                    },
+                    "selected_option_index": 1,
+                    "start_time": "2021-10-08 17:16:03.495000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        4,
+                        11
+                    ],
+                    "duration": 4889,
+                    "end_time": "2021-10-08 17:16:11.763000+00:00",
+                    "option0": {
+                        "description": "Governments should invest in changing energy production from carbon-based sources (coal/gas/oil/etc) to renewables (wind/hydro/solar/etc).",
+                        "name": "Switch to renewable energy"
+                    },
+                    "option1": {
+                        "description": "Governments should create decentralized systems, which can be more climate-resilient \u2014 in the event of a disaster, a community with its own decentralized energy supply isn\u2019t affected by power outages in other areas.",
+                        "name": "Decentralized energy production and distribution systems"
+                    },
+                    "round": 16,
+                    "selected_option": {
+                        "description": "Governments should invest in changing energy production from carbon-based sources (coal/gas/oil/etc) to renewables (wind/hydro/solar/etc).",
+                        "name": "Switch to renewable energy"
+                    },
+                    "selected_option_index": 0,
+                    "start_time": "2021-10-08 17:16:06.874000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        6,
+                        10
+                    ],
+                    "duration": 2977,
+                    "end_time": "2021-10-08 17:16:14.740000+00:00",
+                    "option0": {
+                        "description": "Researchers and companies should invest in finding ways of removing emissions and pollution from manufacturing and industrial processes.",
+                        "name": "Reducing emissions"
+                    },
+                    "option1": {
+                        "description": "Researchers and companies should switch to remote work, decreasing emissions from transportation and office upkeep (especially, lighting and heating).",
+                        "name": "Remote work"
+                    },
+                    "round": 17,
+                    "selected_option": {
+                        "description": "Researchers and companies should invest in finding ways of removing emissions and pollution from manufacturing and industrial processes.",
+                        "name": "Reducing emissions"
+                    },
+                    "selected_option_index": 0,
+                    "start_time": "2021-10-08 17:16:11.763000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        2,
+                        5
+                    ],
+                    "duration": 2830,
+                    "end_time": "2021-10-08 17:16:17.570000+00:00",
+                    "option0": {
+                        "description": "Governments should incentivize switching internal combustion engine cars with electric cars.",
+                        "name": "Electric vehicles"
+                    },
+                    "option1": {
+                        "description": "Governments should incentivize building or upgrading existing buildings to be energy-efficient, create distributed and \u201csmart\u201d power grids, and ensuring affordable access to electricity",
+                        "name": "Smart infrastructure"
+                    },
+                    "round": 18,
+                    "selected_option": {
+                        "description": "Governments should incentivize building or upgrading existing buildings to be energy-efficient, create distributed and \u201csmart\u201d power grids, and ensuring affordable access to electricity",
+                        "name": "Smart infrastructure"
+                    },
+                    "selected_option_index": 1,
+                    "start_time": "2021-10-08 17:16:14.740000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        1,
+                        10
+                    ],
+                    "duration": 3608,
+                    "end_time": "2021-10-08 17:16:21.178000+00:00",
+                    "option0": {
+                        "description": "Researchers and companies should research better management of power across devices, making sure they are efficient.",
+                        "name": "Power aware computing"
+                    },
+                    "option1": {
+                        "description": "Researchers and companies should switch to remote work, decreasing emissions from transportation and office upkeep (especially, lighting and heating).",
+                        "name": "Remote work"
+                    },
+                    "round": 19,
+                    "selected_option": {
+                        "description": "Researchers and companies should research better management of power across devices, making sure they are efficient.",
+                        "name": "Power aware computing"
+                    },
+                    "selected_option_index": 0,
+                    "start_time": "2021-10-08 17:16:17.570000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        1,
+                        11
+                    ],
+                    "duration": 3253,
+                    "end_time": "2021-10-08 17:16:24.431000+00:00",
+                    "option0": {
+                        "description": "Researchers and companies should research better management of power across devices, making sure they are efficient.",
+                        "name": "Power aware computing"
+                    },
+                    "option1": {
+                        "description": "Governments should create decentralized systems, which can be more climate-resilient \u2014 in the event of a disaster, a community with its own decentralized energy supply isn\u2019t affected by power outages in other areas.",
+                        "name": "Decentralized energy production and distribution systems"
+                    },
+                    "round": 20,
+                    "selected_option": {
+                        "description": "Governments should create decentralized systems, which can be more climate-resilient \u2014 in the event of a disaster, a community with its own decentralized energy supply isn\u2019t affected by power outages in other areas.",
+                        "name": "Decentralized energy production and distribution systems"
+                    },
+                    "selected_option_index": 1,
+                    "start_time": "2021-10-08 17:16:21.178000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        3,
+                        6
+                    ],
+                    "duration": 6244,
+                    "end_time": "2021-10-08 17:16:30.675000+00:00",
+                    "option0": {
+                        "description": "People should generally avoid leaving appliances on when not in use to save on power.",
+                        "name": "Turn off devices when not in use"
+                    },
+                    "option1": {
+                        "description": "Researchers and companies should invest in finding ways of removing emissions and pollution from manufacturing and industrial processes.",
+                        "name": "Reducing emissions"
+                    },
+                    "round": 21,
+                    "selected_option": {
+                        "description": "Researchers and companies should invest in finding ways of removing emissions and pollution from manufacturing and industrial processes.",
+                        "name": "Reducing emissions"
+                    },
+                    "selected_option_index": 1,
+                    "start_time": "2021-10-08 17:16:24.431000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        3,
+                        10
+                    ],
+                    "duration": 9146,
+                    "end_time": "2021-10-08 17:16:39.821000+00:00",
+                    "option0": {
+                        "description": "People should generally avoid leaving appliances on when not in use to save on power.",
+                        "name": "Turn off devices when not in use"
+                    },
+                    "option1": {
+                        "description": "Researchers and companies should switch to remote work, decreasing emissions from transportation and office upkeep (especially, lighting and heating).",
+                        "name": "Remote work"
+                    },
+                    "round": 22,
+                    "selected_option": {
+                        "description": "Researchers and companies should switch to remote work, decreasing emissions from transportation and office upkeep (especially, lighting and heating).",
+                        "name": "Remote work"
+                    },
+                    "selected_option_index": 1,
+                    "start_time": "2021-10-08 17:16:30.675000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        8,
+                        10
+                    ],
+                    "duration": 2885,
+                    "end_time": "2021-10-08 17:16:42.706000+00:00",
+                    "option0": {
+                        "description": "Governments should implement measures like increasing allowed density, incentivizing walking, cycling or use of public transportation, widening sidewalks, removing minimum-parking rules for new developments, etc.",
+                        "name": "Reshape our cities to be less car-dependent"
+                    },
+                    "option1": {
+                        "description": "Researchers and companies should switch to remote work, decreasing emissions from transportation and office upkeep (especially, lighting and heating).",
+                        "name": "Remote work"
+                    },
+                    "round": 23,
+                    "selected_option": {
+                        "description": "Governments should implement measures like increasing allowed density, incentivizing walking, cycling or use of public transportation, widening sidewalks, removing minimum-parking rules for new developments, etc.",
+                        "name": "Reshape our cities to be less car-dependent"
+                    },
+                    "selected_option_index": 0,
+                    "start_time": "2021-10-08 17:16:39.821000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        2,
+                        8
+                    ],
+                    "duration": 3963,
+                    "end_time": "2021-10-08 17:16:46.669000+00:00",
+                    "option0": {
+                        "description": "Governments should incentivize switching internal combustion engine cars with electric cars.",
+                        "name": "Electric vehicles"
+                    },
+                    "option1": {
+                        "description": "Governments should implement measures like increasing allowed density, incentivizing walking, cycling or use of public transportation, widening sidewalks, removing minimum-parking rules for new developments, etc.",
+                        "name": "Reshape our cities to be less car-dependent"
+                    },
+                    "round": 24,
+                    "selected_option": {
+                        "description": "Governments should implement measures like increasing allowed density, incentivizing walking, cycling or use of public transportation, widening sidewalks, removing minimum-parking rules for new developments, etc.",
+                        "name": "Reshape our cities to be less car-dependent"
+                    },
+                    "selected_option_index": 1,
+                    "start_time": "2021-10-08 17:16:42.706000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        0,
+                        9
+                    ],
+                    "duration": 3244,
+                    "end_time": "2021-10-08 17:16:49.913000+00:00",
+                    "option0": {
+                        "description": "Researchers and companies should create simulations, games, and educational software to increase public awareness of the issues involved.",
+                        "name": "Educational tools about the effects and causes of climate change"
+                    },
+                    "option1": {
+                        "description": "Governments should institute a carbon tax that will punish products that are reliant on high-CO2 emissions, incentivizing greener alternatives.",
+                        "name": "Implement a carbon tax"
+                    },
+                    "round": 25,
+                    "selected_option": {
+                        "description": "Governments should institute a carbon tax that will punish products that are reliant on high-CO2 emissions, incentivizing greener alternatives.",
+                        "name": "Implement a carbon tax"
+                    },
+                    "selected_option_index": 1,
+                    "start_time": "2021-10-08 17:16:46.669000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        6,
+                        13
+                    ],
+                    "duration": 3693,
+                    "end_time": "2021-10-08 17:16:53.606000+00:00",
+                    "option0": {
+                        "description": "Researchers and companies should invest in finding ways of removing emissions and pollution from manufacturing and industrial processes.",
+                        "name": "Reducing emissions"
+                    },
+                    "option1": {
+                        "description": "People should generally vote for politicians who establish fighting climate change as their number one priority.",
+                        "name": "Vote for climate-change oriented politicians"
+                    },
+                    "round": 26,
+                    "selected_option": {
+                        "description": "Researchers and companies should invest in finding ways of removing emissions and pollution from manufacturing and industrial processes.",
+                        "name": "Reducing emissions"
+                    },
+                    "selected_option_index": 0,
+                    "start_time": "2021-10-08 17:16:49.913000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        5,
+                        6
+                    ],
+                    "duration": 3019,
+                    "end_time": "2021-10-08 17:16:56.625000+00:00",
+                    "option0": {
+                        "description": "Governments should incentivize building or upgrading existing buildings to be energy-efficient, create distributed and \u201csmart\u201d power grids, and ensuring affordable access to electricity",
+                        "name": "Smart infrastructure"
+                    },
+                    "option1": {
+                        "description": "Researchers and companies should invest in finding ways of removing emissions and pollution from manufacturing and industrial processes.",
+                        "name": "Reducing emissions"
+                    },
+                    "round": 27,
+                    "selected_option": {
+                        "description": "Governments should incentivize building or upgrading existing buildings to be energy-efficient, create distributed and \u201csmart\u201d power grids, and ensuring affordable access to electricity",
+                        "name": "Smart infrastructure"
+                    },
+                    "selected_option_index": 0,
+                    "start_time": "2021-10-08 17:16:53.606000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        11,
+                        13
+                    ],
+                    "duration": 3744,
+                    "end_time": "2021-10-08 17:17:00.369000+00:00",
+                    "option0": {
+                        "description": "Governments should create decentralized systems, which can be more climate-resilient \u2014 in the event of a disaster, a community with its own decentralized energy supply isn\u2019t affected by power outages in other areas.",
+                        "name": "Decentralized energy production and distribution systems"
+                    },
+                    "option1": {
+                        "description": "People should generally vote for politicians who establish fighting climate change as their number one priority.",
+                        "name": "Vote for climate-change oriented politicians"
+                    },
+                    "round": 28,
+                    "selected_option": {
+                        "description": "Governments should create decentralized systems, which can be more climate-resilient \u2014 in the event of a disaster, a community with its own decentralized energy supply isn\u2019t affected by power outages in other areas.",
+                        "name": "Decentralized energy production and distribution systems"
+                    },
+                    "selected_option_index": 0,
+                    "start_time": "2021-10-08 17:16:56.625000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        9,
+                        10
+                    ],
+                    "duration": 5317,
+                    "end_time": "2021-10-08 17:17:05.686000+00:00",
+                    "option0": {
+                        "description": "Governments should institute a carbon tax that will punish products that are reliant on high-CO2 emissions, incentivizing greener alternatives.",
+                        "name": "Implement a carbon tax"
+                    },
+                    "option1": {
+                        "description": "Researchers and companies should switch to remote work, decreasing emissions from transportation and office upkeep (especially, lighting and heating).",
+                        "name": "Remote work"
+                    },
+                    "round": 29,
+                    "selected_option": {
+                        "description": "Governments should institute a carbon tax that will punish products that are reliant on high-CO2 emissions, incentivizing greener alternatives.",
+                        "name": "Implement a carbon tax"
+                    },
+                    "selected_option_index": 0,
+                    "start_time": "2021-10-08 17:17:00.369000+00:00"
+                }
+            ],
+            "general_data": {
+                "about_the_participant": {
+                    "age_group": "25 to 34 years",
+                    "education": "Bachelor\u2019s or equivalent level",
+                    "field_of_study": "Commerce",
+                    "gender": "Masculine",
+                    "is_it_an_important_issue": "2",
+                    "occupation": "Business Analyst",
+                    "suggested_strategies": "Big companies and governments can change, nothing else ",
+                    "what_is_it_main_cause": "6",
+                    "will_it_affect_future_generations": "4"
+                },
+                "answers_count": 30,
+                "data_indexes_0": [
+                    3,
+                    0,
+                    9,
+                    13,
+                    6,
+                    3,
+                    5,
+                    8,
+                    3,
+                    4,
+                    7,
+                    1,
+                    8,
+                    0,
+                    1,
+                    12,
+                    4,
+                    6,
+                    2,
+                    1,
+                    1,
+                    3,
+                    3,
+                    8,
+                    2,
+                    0,
+                    6,
+                    5,
+                    11,
+                    9
+                ],
+                "data_indexes_1": [
+                    4,
+                    5,
+                    12,
+                    14,
+                    12,
+                    9,
+                    14,
+                    12,
+                    12,
+                    8,
+                    10,
+                    9,
+                    13,
+                    14,
+                    12,
+                    13,
+                    11,
+                    10,
+                    5,
+                    10,
+                    11,
+                    6,
+                    10,
+                    10,
+                    8,
+                    9,
+                    13,
+                    6,
+                    13,
+                    10
+                ],
+                "effectively_finished": true,
+                "end_time": "2021-10-08 17:17:08.903000+00:00",
+                "open_ended_answer": "",
+                "start_time": "2021-10-08 17:12:42.557000+00:00"
+            },
+            "statistics": {
+                "average_answer_duration": 5.888633219401042,
+                "percentage_of_correct_answers": 0,
+                "test_duration": 176.65899658203125
             }
         },
         "GtqPtR9alafP243DgY1x5U3dHPt2": {
@@ -15125,6 +16772,91 @@
                 "start_time": "2021-10-08 02:45:15.943000+00:00"
             }
         },
+        "RhpGW5exLQRqsEEbOeCsHVxIhNg1": {
+            "answers": [],
+            "general_data": {
+                "about_the_participant": {
+                    "age_group": null,
+                    "education": null,
+                    "field_of_study": null,
+                    "gender": null,
+                    "is_it_an_important_issue": null,
+                    "occupation": null,
+                    "suggested_strategies": null,
+                    "what_is_it_main_cause": null,
+                    "will_it_affect_future_generations": null
+                },
+                "answers_count": 0,
+                "data_indexes_0": [
+                    1,
+                    2,
+                    3,
+                    6,
+                    3,
+                    4,
+                    1,
+                    7,
+                    4,
+                    7,
+                    4,
+                    0,
+                    5,
+                    10,
+                    1,
+                    10,
+                    3,
+                    7,
+                    2,
+                    1,
+                    8,
+                    9,
+                    11,
+                    0,
+                    1,
+                    7,
+                    5,
+                    7,
+                    1,
+                    12
+                ],
+                "data_indexes_1": [
+                    14,
+                    9,
+                    8,
+                    7,
+                    6,
+                    11,
+                    12,
+                    11,
+                    6,
+                    10,
+                    9,
+                    8,
+                    14,
+                    12,
+                    9,
+                    13,
+                    11,
+                    12,
+                    6,
+                    13,
+                    11,
+                    11,
+                    12,
+                    13,
+                    8,
+                    8,
+                    7,
+                    9,
+                    10,
+                    13
+                ],
+                "effectively_finished": false,
+                "end_time": null,
+                "open_ended_answer": "",
+                "start_time": "2021-10-08 14:23:57.188000+00:00"
+            }
+        },
         "SV34N6yAnzO4vZM09fGZxuKPngj1": {
             "answers": [
                 {
@@ -17156,6 +18888,115 @@
                 "average_answer_duration": 13.2802001953125,
                 "percentage_of_correct_answers": 0,
                 "test_duration": 398.406005859375
+            }
+        },
+        "UhdDy7YX2kTMYBqZ3kMXVQv9lD23": {
+            "answers": [
+                {
+                    "current_pair_of_indexes": [
+                        5,
+                        14
+                    ],
+                    "duration": 13001,
+                    "end_time": "2021-10-08 17:10:15.318000+00:00",
+                    "option0": {
+                        "description": "Governments should incentivize building or upgrading existing buildings to be energy-efficient, create distributed and \u201csmart\u201d power grids, and ensuring affordable access to electricity",
+                        "name": "Smart infrastructure"
+                    },
+                    "option1": {
+                        "description": "People should generally buy less stuff: consumers are responsible for more than 60 percent of the global greenhouse gas emissions, most of it related to the environmental effects from actually producing goods and products.",
+                        "name": "Cut on consumption"
+                    },
+                    "round": 0,
+                    "selected_option": {
+                        "description": "People should generally buy less stuff: consumers are responsible for more than 60 percent of the global greenhouse gas emissions, most of it related to the environmental effects from actually producing goods and products.",
+                        "name": "Cut on consumption"
+                    },
+                    "selected_option_index": 1,
+                    "start_time": "2021-10-08 17:10:02.317000+00:00"
+                }
+            ],
+            "general_data": {
+                "about_the_participant": {
+                    "age_group": "25 to 34 years",
+                    "education": "Bachelor\u2019s or equivalent level",
+                    "field_of_study": "Environmental Studies emphasis on toxicology.",
+                    "gender": "Masculine",
+                    "is_it_an_important_issue": "5",
+                    "occupation": "",
+                    "suggested_strategies": "Limit population growth by taxing people with kids instead of giving them tax breaks, while giving those without kids tax breaks instead. Put an emphasis on renewable energies, but also transition over to nuclear to take the place of fossil fuels.",
+                    "what_is_it_main_cause": "4",
+                    "will_it_affect_future_generations": "5"
+                },
+                "answers_count": 1,
+                "data_indexes_0": [
+                    5,
+                    11,
+                    1,
+                    0,
+                    6,
+                    0,
+                    3,
+                    3,
+                    1,
+                    6,
+                    5,
+                    10,
+                    1,
+                    7,
+                    10,
+                    2,
+                    4,
+                    2,
+                    11,
+                    4,
+                    2,
+                    1,
+                    4,
+                    6,
+                    0,
+                    2,
+                    7,
+                    6,
+                    5,
+                    5
+                ],
+                "data_indexes_1": [
+                    14,
+                    12,
+                    3,
+                    13,
+                    14,
+                    14,
+                    4,
+                    10,
+                    6,
+                    7,
+                    8,
+                    13,
+                    7,
+                    10,
+                    11,
+                    10,
+                    5,
+                    3,
+                    13,
+                    13,
+                    8,
+                    14,
+                    6,
+                    9,
+                    11,
+                    13,
+                    14,
+                    10,
+                    6,
+                    12
+                ],
+                "effectively_finished": false,
+                "end_time": "2021-10-08 17:10:15.318000+00:00",
+                "open_ended_answer": "",
+                "start_time": "2021-10-08 17:05:39.540000+00:00"
             }
         },
         "Vb3SBn4QXfYQytFwQQrXmGNKTAa2": {
@@ -24254,6 +26095,787 @@
                 "end_time": null,
                 "open_ended_answer": "",
                 "start_time": "2021-10-06 04:44:34.529000+00:00"
+            }
+        },
+        "eF9D8ynOjXboeb6J3wUNCzjtg5Z2": {
+            "answers": [
+                {
+                    "current_pair_of_indexes": [
+                        2,
+                        4
+                    ],
+                    "duration": 21701,
+                    "end_time": "2021-10-08 17:04:23.851000+00:00",
+                    "option0": {
+                        "description": "Governments should incentivize switching internal combustion engine cars with electric cars.",
+                        "name": "Electric vehicles"
+                    },
+                    "option1": {
+                        "description": "Governments should invest in changing energy production from carbon-based sources (coal/gas/oil/etc) to renewables (wind/hydro/solar/etc).",
+                        "name": "Switch to renewable energy"
+                    },
+                    "round": 0,
+                    "selected_option": {
+                        "description": "Governments should invest in changing energy production from carbon-based sources (coal/gas/oil/etc) to renewables (wind/hydro/solar/etc).",
+                        "name": "Switch to renewable energy"
+                    },
+                    "selected_option_index": 1,
+                    "start_time": "2021-10-08 17:04:02.150000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        1,
+                        3
+                    ],
+                    "duration": 9005,
+                    "end_time": "2021-10-08 17:04:32.856000+00:00",
+                    "option0": {
+                        "description": "Researchers and companies should research better management of power across devices, making sure they are efficient.",
+                        "name": "Power aware computing"
+                    },
+                    "option1": {
+                        "description": "People should generally avoid leaving appliances on when not in use to save on power.",
+                        "name": "Turn off devices when not in use"
+                    },
+                    "round": 1,
+                    "selected_option": {
+                        "description": "People should generally avoid leaving appliances on when not in use to save on power.",
+                        "name": "Turn off devices when not in use"
+                    },
+                    "selected_option_index": 1,
+                    "start_time": "2021-10-08 17:04:23.851000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        1,
+                        7
+                    ],
+                    "duration": 6640,
+                    "end_time": "2021-10-08 17:04:39.496000+00:00",
+                    "option0": {
+                        "description": "Researchers and companies should research better management of power across devices, making sure they are efficient.",
+                        "name": "Power aware computing"
+                    },
+                    "option1": {
+                        "description": "Researchers and companies should develop products that are easier to repair, upgrade, or even be disassembled to have their components reused in other products/applications.",
+                        "name": "Design computers/electronics for disassembly/deconstruction"
+                    },
+                    "round": 2,
+                    "selected_option": {
+                        "description": "Researchers and companies should develop products that are easier to repair, upgrade, or even be disassembled to have their components reused in other products/applications.",
+                        "name": "Design computers/electronics for disassembly/deconstruction"
+                    },
+                    "selected_option_index": 1,
+                    "start_time": "2021-10-08 17:04:32.856000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        8,
+                        11
+                    ],
+                    "duration": 10274,
+                    "end_time": "2021-10-08 17:04:49.770000+00:00",
+                    "option0": {
+                        "description": "Governments should implement measures like increasing allowed density, incentivizing walking, cycling or use of public transportation, widening sidewalks, removing minimum-parking rules for new developments, etc.",
+                        "name": "Reshape our cities to be less car-dependent"
+                    },
+                    "option1": {
+                        "description": "Governments should create decentralized systems, which can be more climate-resilient \u2014 in the event of a disaster, a community with its own decentralized energy supply isn\u2019t affected by power outages in other areas.",
+                        "name": "Decentralized energy production and distribution systems"
+                    },
+                    "round": 3,
+                    "selected_option": {
+                        "description": "Governments should implement measures like increasing allowed density, incentivizing walking, cycling or use of public transportation, widening sidewalks, removing minimum-parking rules for new developments, etc.",
+                        "name": "Reshape our cities to be less car-dependent"
+                    },
+                    "selected_option_index": 0,
+                    "start_time": "2021-10-08 17:04:39.496000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        12,
+                        14
+                    ],
+                    "duration": 9984,
+                    "end_time": "2021-10-08 17:04:59.754000+00:00",
+                    "option0": {
+                        "description": "People should switch to vegetarian diets, since meat and dairy account for ~15% of global greenhouse gas emissions.",
+                        "name": "Disincentivize meat-based diets"
+                    },
+                    "option1": {
+                        "description": "People should generally buy less stuff: consumers are responsible for more than 60 percent of the global greenhouse gas emissions, most of it related to the environmental effects from actually producing goods and products.",
+                        "name": "Cut on consumption"
+                    },
+                    "round": 4,
+                    "selected_option": {
+                        "description": "People should generally buy less stuff: consumers are responsible for more than 60 percent of the global greenhouse gas emissions, most of it related to the environmental effects from actually producing goods and products.",
+                        "name": "Cut on consumption"
+                    },
+                    "selected_option_index": 1,
+                    "start_time": "2021-10-08 17:04:49.770000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        5,
+                        6
+                    ],
+                    "duration": 26504,
+                    "end_time": "2021-10-08 17:05:26.258000+00:00",
+                    "option0": {
+                        "description": "Governments should incentivize building or upgrading existing buildings to be energy-efficient, create distributed and \u201csmart\u201d power grids, and ensuring affordable access to electricity",
+                        "name": "Smart infrastructure"
+                    },
+                    "option1": {
+                        "description": "Researchers and companies should invest in finding ways of removing emissions and pollution from manufacturing and industrial processes.",
+                        "name": "Reducing emissions"
+                    },
+                    "round": 5,
+                    "selected_option": {
+                        "description": "Researchers and companies should invest in finding ways of removing emissions and pollution from manufacturing and industrial processes.",
+                        "name": "Reducing emissions"
+                    },
+                    "selected_option_index": 1,
+                    "start_time": "2021-10-08 17:04:59.754000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        0,
+                        1
+                    ],
+                    "duration": 6577,
+                    "end_time": "2021-10-08 17:05:32.835000+00:00",
+                    "option0": {
+                        "description": "Researchers and companies should create simulations, games, and educational software to increase public awareness of the issues involved.",
+                        "name": "Educational tools about the effects and causes of climate change"
+                    },
+                    "option1": {
+                        "description": "Researchers and companies should research better management of power across devices, making sure they are efficient.",
+                        "name": "Power aware computing"
+                    },
+                    "round": 6,
+                    "selected_option": {
+                        "description": "Researchers and companies should research better management of power across devices, making sure they are efficient.",
+                        "name": "Power aware computing"
+                    },
+                    "selected_option_index": 1,
+                    "start_time": "2021-10-08 17:05:26.258000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        6,
+                        14
+                    ],
+                    "duration": 5563,
+                    "end_time": "2021-10-08 17:05:38.398000+00:00",
+                    "option0": {
+                        "description": "Researchers and companies should invest in finding ways of removing emissions and pollution from manufacturing and industrial processes.",
+                        "name": "Reducing emissions"
+                    },
+                    "option1": {
+                        "description": "People should generally buy less stuff: consumers are responsible for more than 60 percent of the global greenhouse gas emissions, most of it related to the environmental effects from actually producing goods and products.",
+                        "name": "Cut on consumption"
+                    },
+                    "round": 7,
+                    "selected_option": {
+                        "description": "Researchers and companies should invest in finding ways of removing emissions and pollution from manufacturing and industrial processes.",
+                        "name": "Reducing emissions"
+                    },
+                    "selected_option_index": 0,
+                    "start_time": "2021-10-08 17:05:32.835000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        1,
+                        13
+                    ],
+                    "duration": 2701,
+                    "end_time": "2021-10-08 17:05:41.099000+00:00",
+                    "option0": {
+                        "description": "Researchers and companies should research better management of power across devices, making sure they are efficient.",
+                        "name": "Power aware computing"
+                    },
+                    "option1": {
+                        "description": "People should generally vote for politicians who establish fighting climate change as their number one priority.",
+                        "name": "Vote for climate-change oriented politicians"
+                    },
+                    "round": 8,
+                    "selected_option": {
+                        "description": "People should generally vote for politicians who establish fighting climate change as their number one priority.",
+                        "name": "Vote for climate-change oriented politicians"
+                    },
+                    "selected_option_index": 1,
+                    "start_time": "2021-10-08 17:05:38.398000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        0,
+                        11
+                    ],
+                    "duration": 5858,
+                    "end_time": "2021-10-08 17:05:46.957000+00:00",
+                    "option0": {
+                        "description": "Researchers and companies should create simulations, games, and educational software to increase public awareness of the issues involved.",
+                        "name": "Educational tools about the effects and causes of climate change"
+                    },
+                    "option1": {
+                        "description": "Governments should create decentralized systems, which can be more climate-resilient \u2014 in the event of a disaster, a community with its own decentralized energy supply isn\u2019t affected by power outages in other areas.",
+                        "name": "Decentralized energy production and distribution systems"
+                    },
+                    "round": 9,
+                    "selected_option": {
+                        "description": "Governments should create decentralized systems, which can be more climate-resilient \u2014 in the event of a disaster, a community with its own decentralized energy supply isn\u2019t affected by power outages in other areas.",
+                        "name": "Decentralized energy production and distribution systems"
+                    },
+                    "selected_option_index": 1,
+                    "start_time": "2021-10-08 17:05:41.099000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        3,
+                        9
+                    ],
+                    "duration": 4742,
+                    "end_time": "2021-10-08 17:05:51.699000+00:00",
+                    "option0": {
+                        "description": "People should generally avoid leaving appliances on when not in use to save on power.",
+                        "name": "Turn off devices when not in use"
+                    },
+                    "option1": {
+                        "description": "Governments should institute a carbon tax that will punish products that are reliant on high-CO2 emissions, incentivizing greener alternatives.",
+                        "name": "Implement a carbon tax"
+                    },
+                    "round": 10,
+                    "selected_option": {
+                        "description": "Governments should institute a carbon tax that will punish products that are reliant on high-CO2 emissions, incentivizing greener alternatives.",
+                        "name": "Implement a carbon tax"
+                    },
+                    "selected_option_index": 1,
+                    "start_time": "2021-10-08 17:05:46.957000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        1,
+                        12
+                    ],
+                    "duration": 6793,
+                    "end_time": "2021-10-08 17:05:58.492000+00:00",
+                    "option0": {
+                        "description": "Researchers and companies should research better management of power across devices, making sure they are efficient.",
+                        "name": "Power aware computing"
+                    },
+                    "option1": {
+                        "description": "People should switch to vegetarian diets, since meat and dairy account for ~15% of global greenhouse gas emissions.",
+                        "name": "Disincentivize meat-based diets"
+                    },
+                    "round": 11,
+                    "selected_option": {
+                        "description": "People should switch to vegetarian diets, since meat and dairy account for ~15% of global greenhouse gas emissions.",
+                        "name": "Disincentivize meat-based diets"
+                    },
+                    "selected_option_index": 1,
+                    "start_time": "2021-10-08 17:05:51.699000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        6,
+                        11
+                    ],
+                    "duration": 45777,
+                    "end_time": "2021-10-08 17:06:44.269000+00:00",
+                    "option0": {
+                        "description": "Researchers and companies should invest in finding ways of removing emissions and pollution from manufacturing and industrial processes.",
+                        "name": "Reducing emissions"
+                    },
+                    "option1": {
+                        "description": "Governments should create decentralized systems, which can be more climate-resilient \u2014 in the event of a disaster, a community with its own decentralized energy supply isn\u2019t affected by power outages in other areas.",
+                        "name": "Decentralized energy production and distribution systems"
+                    },
+                    "round": 12,
+                    "selected_option": {
+                        "description": "Researchers and companies should invest in finding ways of removing emissions and pollution from manufacturing and industrial processes.",
+                        "name": "Reducing emissions"
+                    },
+                    "selected_option_index": 0,
+                    "start_time": "2021-10-08 17:05:58.492000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        1,
+                        14
+                    ],
+                    "duration": 3179,
+                    "end_time": "2021-10-08 17:06:47.448000+00:00",
+                    "option0": {
+                        "description": "Researchers and companies should research better management of power across devices, making sure they are efficient.",
+                        "name": "Power aware computing"
+                    },
+                    "option1": {
+                        "description": "People should generally buy less stuff: consumers are responsible for more than 60 percent of the global greenhouse gas emissions, most of it related to the environmental effects from actually producing goods and products.",
+                        "name": "Cut on consumption"
+                    },
+                    "round": 13,
+                    "selected_option": {
+                        "description": "People should generally buy less stuff: consumers are responsible for more than 60 percent of the global greenhouse gas emissions, most of it related to the environmental effects from actually producing goods and products.",
+                        "name": "Cut on consumption"
+                    },
+                    "selected_option_index": 1,
+                    "start_time": "2021-10-08 17:06:44.269000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        5,
+                        11
+                    ],
+                    "duration": 6586,
+                    "end_time": "2021-10-08 17:06:54.034000+00:00",
+                    "option0": {
+                        "description": "Governments should incentivize building or upgrading existing buildings to be energy-efficient, create distributed and \u201csmart\u201d power grids, and ensuring affordable access to electricity",
+                        "name": "Smart infrastructure"
+                    },
+                    "option1": {
+                        "description": "Governments should create decentralized systems, which can be more climate-resilient \u2014 in the event of a disaster, a community with its own decentralized energy supply isn\u2019t affected by power outages in other areas.",
+                        "name": "Decentralized energy production and distribution systems"
+                    },
+                    "round": 14,
+                    "selected_option": {
+                        "description": "Governments should create decentralized systems, which can be more climate-resilient \u2014 in the event of a disaster, a community with its own decentralized energy supply isn\u2019t affected by power outages in other areas.",
+                        "name": "Decentralized energy production and distribution systems"
+                    },
+                    "selected_option_index": 1,
+                    "start_time": "2021-10-08 17:06:47.448000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        2,
+                        5
+                    ],
+                    "duration": 3936,
+                    "end_time": "2021-10-08 17:06:57.970000+00:00",
+                    "option0": {
+                        "description": "Governments should incentivize switching internal combustion engine cars with electric cars.",
+                        "name": "Electric vehicles"
+                    },
+                    "option1": {
+                        "description": "Governments should incentivize building or upgrading existing buildings to be energy-efficient, create distributed and \u201csmart\u201d power grids, and ensuring affordable access to electricity",
+                        "name": "Smart infrastructure"
+                    },
+                    "round": 15,
+                    "selected_option": {
+                        "description": "Governments should incentivize building or upgrading existing buildings to be energy-efficient, create distributed and \u201csmart\u201d power grids, and ensuring affordable access to electricity",
+                        "name": "Smart infrastructure"
+                    },
+                    "selected_option_index": 1,
+                    "start_time": "2021-10-08 17:06:54.034000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        1,
+                        6
+                    ],
+                    "duration": 2185,
+                    "end_time": "2021-10-08 17:07:00.155000+00:00",
+                    "option0": {
+                        "description": "Researchers and companies should research better management of power across devices, making sure they are efficient.",
+                        "name": "Power aware computing"
+                    },
+                    "option1": {
+                        "description": "Researchers and companies should invest in finding ways of removing emissions and pollution from manufacturing and industrial processes.",
+                        "name": "Reducing emissions"
+                    },
+                    "round": 16,
+                    "selected_option": {
+                        "description": "Researchers and companies should invest in finding ways of removing emissions and pollution from manufacturing and industrial processes.",
+                        "name": "Reducing emissions"
+                    },
+                    "selected_option_index": 1,
+                    "start_time": "2021-10-08 17:06:57.970000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        8,
+                        9
+                    ],
+                    "duration": 3850,
+                    "end_time": "2021-10-08 17:07:04.005000+00:00",
+                    "option0": {
+                        "description": "Governments should implement measures like increasing allowed density, incentivizing walking, cycling or use of public transportation, widening sidewalks, removing minimum-parking rules for new developments, etc.",
+                        "name": "Reshape our cities to be less car-dependent"
+                    },
+                    "option1": {
+                        "description": "Governments should institute a carbon tax that will punish products that are reliant on high-CO2 emissions, incentivizing greener alternatives.",
+                        "name": "Implement a carbon tax"
+                    },
+                    "round": 17,
+                    "selected_option": {
+                        "description": "Governments should implement measures like increasing allowed density, incentivizing walking, cycling or use of public transportation, widening sidewalks, removing minimum-parking rules for new developments, etc.",
+                        "name": "Reshape our cities to be less car-dependent"
+                    },
+                    "selected_option_index": 0,
+                    "start_time": "2021-10-08 17:07:00.155000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        0,
+                        7
+                    ],
+                    "duration": 3290,
+                    "end_time": "2021-10-08 17:07:07.295000+00:00",
+                    "option0": {
+                        "description": "Researchers and companies should create simulations, games, and educational software to increase public awareness of the issues involved.",
+                        "name": "Educational tools about the effects and causes of climate change"
+                    },
+                    "option1": {
+                        "description": "Researchers and companies should develop products that are easier to repair, upgrade, or even be disassembled to have their components reused in other products/applications.",
+                        "name": "Design computers/electronics for disassembly/deconstruction"
+                    },
+                    "round": 18,
+                    "selected_option": {
+                        "description": "Researchers and companies should develop products that are easier to repair, upgrade, or even be disassembled to have their components reused in other products/applications.",
+                        "name": "Design computers/electronics for disassembly/deconstruction"
+                    },
+                    "selected_option_index": 1,
+                    "start_time": "2021-10-08 17:07:04.005000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        3,
+                        10
+                    ],
+                    "duration": 4697,
+                    "end_time": "2021-10-08 17:07:11.992000+00:00",
+                    "option0": {
+                        "description": "People should generally avoid leaving appliances on when not in use to save on power.",
+                        "name": "Turn off devices when not in use"
+                    },
+                    "option1": {
+                        "description": "Researchers and companies should switch to remote work, decreasing emissions from transportation and office upkeep (especially, lighting and heating).",
+                        "name": "Remote work"
+                    },
+                    "round": 19,
+                    "selected_option": {
+                        "description": "Researchers and companies should switch to remote work, decreasing emissions from transportation and office upkeep (especially, lighting and heating).",
+                        "name": "Remote work"
+                    },
+                    "selected_option_index": 1,
+                    "start_time": "2021-10-08 17:07:07.295000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        5,
+                        8
+                    ],
+                    "duration": 3849,
+                    "end_time": "2021-10-08 17:07:15.841000+00:00",
+                    "option0": {
+                        "description": "Governments should incentivize building or upgrading existing buildings to be energy-efficient, create distributed and \u201csmart\u201d power grids, and ensuring affordable access to electricity",
+                        "name": "Smart infrastructure"
+                    },
+                    "option1": {
+                        "description": "Governments should implement measures like increasing allowed density, incentivizing walking, cycling or use of public transportation, widening sidewalks, removing minimum-parking rules for new developments, etc.",
+                        "name": "Reshape our cities to be less car-dependent"
+                    },
+                    "round": 20,
+                    "selected_option": {
+                        "description": "Governments should implement measures like increasing allowed density, incentivizing walking, cycling or use of public transportation, widening sidewalks, removing minimum-parking rules for new developments, etc.",
+                        "name": "Reshape our cities to be less car-dependent"
+                    },
+                    "selected_option_index": 1,
+                    "start_time": "2021-10-08 17:07:11.992000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        5,
+                        13
+                    ],
+                    "duration": 2912,
+                    "end_time": "2021-10-08 17:07:18.753000+00:00",
+                    "option0": {
+                        "description": "Governments should incentivize building or upgrading existing buildings to be energy-efficient, create distributed and \u201csmart\u201d power grids, and ensuring affordable access to electricity",
+                        "name": "Smart infrastructure"
+                    },
+                    "option1": {
+                        "description": "People should generally vote for politicians who establish fighting climate change as their number one priority.",
+                        "name": "Vote for climate-change oriented politicians"
+                    },
+                    "round": 21,
+                    "selected_option": {
+                        "description": "People should generally vote for politicians who establish fighting climate change as their number one priority.",
+                        "name": "Vote for climate-change oriented politicians"
+                    },
+                    "selected_option_index": 1,
+                    "start_time": "2021-10-08 17:07:15.841000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        7,
+                        12
+                    ],
+                    "duration": 5667,
+                    "end_time": "2021-10-08 17:07:24.420000+00:00",
+                    "option0": {
+                        "description": "Researchers and companies should develop products that are easier to repair, upgrade, or even be disassembled to have their components reused in other products/applications.",
+                        "name": "Design computers/electronics for disassembly/deconstruction"
+                    },
+                    "option1": {
+                        "description": "People should switch to vegetarian diets, since meat and dairy account for ~15% of global greenhouse gas emissions.",
+                        "name": "Disincentivize meat-based diets"
+                    },
+                    "round": 22,
+                    "selected_option": {
+                        "description": "People should switch to vegetarian diets, since meat and dairy account for ~15% of global greenhouse gas emissions.",
+                        "name": "Disincentivize meat-based diets"
+                    },
+                    "selected_option_index": 1,
+                    "start_time": "2021-10-08 17:07:18.753000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        3,
+                        8
+                    ],
+                    "duration": 2704,
+                    "end_time": "2021-10-08 17:07:27.124000+00:00",
+                    "option0": {
+                        "description": "People should generally avoid leaving appliances on when not in use to save on power.",
+                        "name": "Turn off devices when not in use"
+                    },
+                    "option1": {
+                        "description": "Governments should implement measures like increasing allowed density, incentivizing walking, cycling or use of public transportation, widening sidewalks, removing minimum-parking rules for new developments, etc.",
+                        "name": "Reshape our cities to be less car-dependent"
+                    },
+                    "round": 23,
+                    "selected_option": {
+                        "description": "Governments should implement measures like increasing allowed density, incentivizing walking, cycling or use of public transportation, widening sidewalks, removing minimum-parking rules for new developments, etc.",
+                        "name": "Reshape our cities to be less car-dependent"
+                    },
+                    "selected_option_index": 1,
+                    "start_time": "2021-10-08 17:07:24.420000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        11,
+                        13
+                    ],
+                    "duration": 73995,
+                    "end_time": "2021-10-08 17:08:41.119000+00:00",
+                    "option0": {
+                        "description": "Governments should create decentralized systems, which can be more climate-resilient \u2014 in the event of a disaster, a community with its own decentralized energy supply isn\u2019t affected by power outages in other areas.",
+                        "name": "Decentralized energy production and distribution systems"
+                    },
+                    "option1": {
+                        "description": "People should generally vote for politicians who establish fighting climate change as their number one priority.",
+                        "name": "Vote for climate-change oriented politicians"
+                    },
+                    "round": 24,
+                    "selected_option": {
+                        "description": "People should generally vote for politicians who establish fighting climate change as their number one priority.",
+                        "name": "Vote for climate-change oriented politicians"
+                    },
+                    "selected_option_index": 1,
+                    "start_time": "2021-10-08 17:07:27.124000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        10,
+                        12
+                    ],
+                    "duration": 2576,
+                    "end_time": "2021-10-08 17:08:43.695000+00:00",
+                    "option0": {
+                        "description": "Researchers and companies should switch to remote work, decreasing emissions from transportation and office upkeep (especially, lighting and heating).",
+                        "name": "Remote work"
+                    },
+                    "option1": {
+                        "description": "People should switch to vegetarian diets, since meat and dairy account for ~15% of global greenhouse gas emissions.",
+                        "name": "Disincentivize meat-based diets"
+                    },
+                    "round": 25,
+                    "selected_option": {
+                        "description": "Researchers and companies should switch to remote work, decreasing emissions from transportation and office upkeep (especially, lighting and heating).",
+                        "name": "Remote work"
+                    },
+                    "selected_option_index": 0,
+                    "start_time": "2021-10-08 17:08:41.119000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        6,
+                        9
+                    ],
+                    "duration": 3800,
+                    "end_time": "2021-10-08 17:08:47.495000+00:00",
+                    "option0": {
+                        "description": "Researchers and companies should invest in finding ways of removing emissions and pollution from manufacturing and industrial processes.",
+                        "name": "Reducing emissions"
+                    },
+                    "option1": {
+                        "description": "Governments should institute a carbon tax that will punish products that are reliant on high-CO2 emissions, incentivizing greener alternatives.",
+                        "name": "Implement a carbon tax"
+                    },
+                    "round": 26,
+                    "selected_option": {
+                        "description": "Researchers and companies should invest in finding ways of removing emissions and pollution from manufacturing and industrial processes.",
+                        "name": "Reducing emissions"
+                    },
+                    "selected_option_index": 0,
+                    "start_time": "2021-10-08 17:08:43.695000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        0,
+                        14
+                    ],
+                    "duration": 1943,
+                    "end_time": "2021-10-08 17:08:49.438000+00:00",
+                    "option0": {
+                        "description": "Researchers and companies should create simulations, games, and educational software to increase public awareness of the issues involved.",
+                        "name": "Educational tools about the effects and causes of climate change"
+                    },
+                    "option1": {
+                        "description": "People should generally buy less stuff: consumers are responsible for more than 60 percent of the global greenhouse gas emissions, most of it related to the environmental effects from actually producing goods and products.",
+                        "name": "Cut on consumption"
+                    },
+                    "round": 27,
+                    "selected_option": {
+                        "description": "People should generally buy less stuff: consumers are responsible for more than 60 percent of the global greenhouse gas emissions, most of it related to the environmental effects from actually producing goods and products.",
+                        "name": "Cut on consumption"
+                    },
+                    "selected_option_index": 1,
+                    "start_time": "2021-10-08 17:08:47.495000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        2,
+                        6
+                    ],
+                    "duration": 2025,
+                    "end_time": "2021-10-08 17:08:51.463000+00:00",
+                    "option0": {
+                        "description": "Governments should incentivize switching internal combustion engine cars with electric cars.",
+                        "name": "Electric vehicles"
+                    },
+                    "option1": {
+                        "description": "Researchers and companies should invest in finding ways of removing emissions and pollution from manufacturing and industrial processes.",
+                        "name": "Reducing emissions"
+                    },
+                    "round": 28,
+                    "selected_option": {
+                        "description": "Researchers and companies should invest in finding ways of removing emissions and pollution from manufacturing and industrial processes.",
+                        "name": "Reducing emissions"
+                    },
+                    "selected_option_index": 1,
+                    "start_time": "2021-10-08 17:08:49.438000+00:00"
+                },
+                {
+                    "current_pair_of_indexes": [
+                        5,
+                        10
+                    ],
+                    "duration": 2392,
+                    "end_time": "2021-10-08 17:08:53.855000+00:00",
+                    "option0": {
+                        "description": "Governments should incentivize building or upgrading existing buildings to be energy-efficient, create distributed and \u201csmart\u201d power grids, and ensuring affordable access to electricity",
+                        "name": "Smart infrastructure"
+                    },
+                    "option1": {
+                        "description": "Researchers and companies should switch to remote work, decreasing emissions from transportation and office upkeep (especially, lighting and heating).",
+                        "name": "Remote work"
+                    },
+                    "round": 29,
+                    "selected_option": {
+                        "description": "Researchers and companies should switch to remote work, decreasing emissions from transportation and office upkeep (especially, lighting and heating).",
+                        "name": "Remote work"
+                    },
+                    "selected_option_index": 1,
+                    "start_time": "2021-10-08 17:08:51.463000+00:00"
+                }
+            ],
+            "general_data": {
+                "about_the_participant": {
+                    "age_group": "25 to 34 years",
+                    "education": "Bachelor\u2019s or equivalent level",
+                    "field_of_study": "information technology",
+                    "gender": "Masculine",
+                    "is_it_an_important_issue": "5",
+                    "occupation": "software engineer",
+                    "suggested_strategies": "Increased electrification (vehicles, heating, etc). Embrace nuclear power as an alternative to coal/natural gas. Invest in renewables like solar & coal, in addition to hydroelectric when appropriate. Invest in grid-level energy storage. Research and lower the cost of carbon capture. Governments should use taxation to incentivize reduction of C02 production. Increased research into meat alternatives, ideally getting them to the point where \"real\" meat is the more expensive option.",
+                    "what_is_it_main_cause": "1",
+                    "will_it_affect_future_generations": "4"
+                },
+                "answers_count": 30,
+                "data_indexes_0": [
+                    2,
+                    1,
+                    1,
+                    8,
+                    12,
+                    5,
+                    0,
+                    6,
+                    1,
+                    0,
+                    3,
+                    1,
+                    6,
+                    1,
+                    5,
+                    2,
+                    1,
+                    8,
+                    0,
+                    3,
+                    5,
+                    5,
+                    7,
+                    3,
+                    11,
+                    10,
+                    6,
+                    0,
+                    2,
+                    5
+                ],
+                "data_indexes_1": [
+                    4,
+                    3,
+                    7,
+                    11,
+                    14,
+                    6,
+                    1,
+                    14,
+                    13,
+                    11,
+                    9,
+                    12,
+                    11,
+                    14,
+                    11,
+                    5,
+                    6,
+                    9,
+                    7,
+                    10,
+                    8,
+                    13,
+                    12,
+                    8,
+                    13,
+                    12,
+                    9,
+                    14,
+                    6,
+                    10
+                ],
+                "effectively_finished": true,
+                "end_time": "2021-10-08 17:11:40.141000+00:00",
+                "open_ended_answer": "I think government policy will have a much bigger affect than any individual action.\n\nWe should embrace nuclear as an alternative to coal & gas, in addition to renewables.\n\n\nSome industries will be difficult to de-carbonize, namely aviation, shipping, and concrete production (as far as I'm aware). Perhaps carbon capture can take care of the emissions from these industries while we work on de-carbonizing other areas",
+                "start_time": "2021-10-08 16:59:23.502000+00:00"
+            },
+            "statistics": {
+                "average_answer_duration": 9.723500061035157,
+                "percentage_of_correct_answers": 0,
+                "test_duration": 291.7050018310547
             }
         },
         "eR7J1g9KOJXapQZ33L27RG7b7gP2": {
